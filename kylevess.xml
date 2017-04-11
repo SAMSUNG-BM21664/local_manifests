@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SAMSUNG-BM21664/android_device_samsung_kylevess" path="device/samsung/kylevess" remote="github" revision="cm-13.0" />
+  <project name="SAMSUNG-BM21664/android_kernel_samsung_kylevess" path="kernel/samsung/kylevess" remote="github" revision="cm-13.0" />
+  <project name="SAMSUNG-BM21664/android_vendor_samsung" path="vendor/samsung/kylevess" remote="github" revision="cm-13.0" />
+</manifest>
